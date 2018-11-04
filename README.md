@@ -1,5 +1,7 @@
 # Title
-Analysis on Healthy product on Amazon
+**Analysis on Healthy product on Amazon**
+
+Team Members: Liang Yueran, Luo Yaxiong, Xia Shengzhao
 
 # Abstract
 A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
@@ -41,7 +43,7 @@ We will mainly concern several category listed below:
     * brand - brand name
     * categories - list of categories the product belongs to
 
-We temporally consider these two dataset, and we are looking for some external dataset that can help us, but these will be discussed later.
+We temporally consider these two datasets, and we are looking for some external dataset that can help us, but these will be discussed later.
 
 # A list of internal milestones up until project milestone 2
 
