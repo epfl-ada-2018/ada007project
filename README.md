@@ -1,7 +1,7 @@
 # Title
 Title: **Analysis on Healthy product on Amazon**
 
-Team Members: Liang Yueran, Luo Yaxiong, Xia Shengzhao
+Team members: Liang Yueran, Luo Yaxiong, Xia Shengzhao
 
 # Abstract
 A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
@@ -49,7 +49,7 @@ We temporally consider these two datasets, and we are looking for some external 
 
 The schedule of our project:
 
-05/11/2017 - 15/11/2017: Data collection and wrangling
+05/11/2018 - 15/11/2018: Data collection and wrangling
 
 Fully understand the dataset and have access to it so that all members can be assigned interested parts.
 
