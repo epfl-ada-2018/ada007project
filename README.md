@@ -4,10 +4,18 @@ Title: **Analysis on Healthy product on Amazon**
 Team members: Liang Yueran, Luo Yaxiong, Xia Shengzhao
 
 # Abstract
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+Abstract：
+Improving health condition is an indispensable part of society improvement. In this project, we focus on the Amazon product data to draw conclusions about promoting health. Our goal is analyze popularity of products related to physical health from different points of views, such as providing a visualization of data to show the changing trend of amount of reviews,  comparing average rating of the products. We hope to give people an insight of how these health related products influence people’s life. Are them become more important for people? Or people are losing the interest of those kinds of products. Morever, good recommendations are essential for promoting health related products for people who are interested in them. We hope to combine rating, sentiment analysis of the review and other useful features of data to make give a reasonable recommendations.
 
 # Research questions
-A list of research questions you would like to address during the project. 
+
+* What's the most popular Healthy product? How rating varies between different categories?
+
+* How the ratings of helathy product change and how the people rate for different healthy product?
+
+* what is the keywords in review for several popular healthy product?
+
+* 
 
 # Dataset
 
@@ -65,5 +73,5 @@ Creat a interesting and meaningful data story for our analysis and show the visu
 
 17/12/2017 - TBD: Poster & Presentation
 
-# Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+<!-- # Questions for TAa
+Add here some questions you have for us, in general or project-specific. -->
