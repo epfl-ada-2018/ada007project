@@ -1,5 +1,5 @@
 # Title
-**Analysis on Healthy product on Amazon**
+Title: **Analysis on Healthy product on Amazon**
 
 Team Members: Liang Yueran, Luo Yaxiong, Xia Shengzhao
 
