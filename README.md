@@ -1,21 +1,23 @@
 # Title
-Title: **Analysis on Healthy product on Amazon**
+Title: **Analysis on products realatd to health on Amazon**
 
 Team members: Liang Yueran, Luo Yaxiong, Xia Shengzhao
 
 # Abstract
-Abstract：
-Improving health condition is an indispensable part of society improvement. In this project, we focus on the Amazon product data to draw conclusions about promoting health. Our goal is analyze popularity of products related to physical health from different points of views, such as providing a visualization of data to show the changing trend of amount of reviews,  comparing average rating of the products. We hope to give people an insight of how these health related products influence people’s life. Are them become more important for people? Or people are losing the interest of those kinds of products. Morever, good recommendations are essential for promoting health related products for people who are interested in them. We hope to combine rating, sentiment analysis of the review and other useful features of data to make give a reasonable recommendations.
+Improving health condition is an indispensable part of society improvement. In this project, we focus on the Amazon product data to draw a conclusion on how to promote a healthy style. Our goal is to analyze the popularity of products related to physical health from different points of views, such as providing a visualization of data to show the changing trend of amount of reviews,  comparing average rating of the products. We hope to give people an insight of how these products influence people’s life. Are they becoming more and more important or are they losing the interest of these kinds of products?  Morever, good recommendations are essential to promote these products for people interested in them. By combining rating, sentiment analysis of the review and other useful features of data, we also want to make a reasonable recommendations.
 
 # Research questions
 
-* What's the most popular Healthy product? How rating varies between different categories?
+* How to define the popularity of healthy product specifically?
 
-* How the ratings of helathy product change and how the people rate for different healthy product?
+* What's the most popular Healthy product? How the average of rating varies between different categories?
 
-* what is the keywords in review for several popular healthy product?
+* How the ratings of healthy product change and how people rate for different healthy products?
 
-* 
+* what are the keywords in review for several popular healthy products?
+
+* How to combine the serveral features of data to give recommendations (based on the ratings, based on the review) ?
+
 
 # Dataset
 
