@@ -90,11 +90,11 @@ Access the dataset and fully understand it so that all members can be assigned t
 
 Look at the attributes of dataset and find some proper methods to do a data analysis like distribution, visualization, statistic analysis.
 
-30/11/2018 - 06/12/2018: Data story and Data visulization
+30/11/2018 - 10/12/2018: Review analysis and Data visulization
 
-Creat a interesting and meaningful data story for our analysis and show the visuliztions in plots.
+Analyse review text and show the visualizetion in plots
 
-07/12/2018 - 16/12/2018: Conclusion and Reprot
+11/12/2018 - 16/12/2018: Conclusion and Reprot
 
 17/12/2017 - TBD: Poster & Presentation
 
