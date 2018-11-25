@@ -84,15 +84,15 @@ The schedule of our project:
 
 05/11/2018 - 15/11/2018: Data collection and wrangling
 
-Access the dataset and fully understand it so that all members can be assigned to their interested parts.
+* Access the dataset and fully understand it so that all members can be assigned to their interested parts.
 
 16/11/2018 - 29/11/2018: Data analysis 
 
-Look at the attributes of dataset and find some proper methods to do a data analysis like distribution, visualization, statistic analysis.
+* Look at the attributes of dataset and find some proper methods to do a data analysis like distribution, visualization, statistic analysis.
 
 30/11/2018 - 10/12/2018: Review analysis and Data visulization
 
-Analyse review text and show the visualizetion in plots
+* Analyse review text and show the visualizetion in plots
 
 11/12/2018 - 16/12/2018: Conclusion and Report
 
