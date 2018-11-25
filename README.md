@@ -78,6 +78,16 @@ We will mainly concern several category listed below:
       * Analyse correlation between reviews' quantity and salesRank
       * Analyse correlation between reviews' quantity and Price
       
+# Plan to do in milestone 3
+
+* Give the words in review text tags about part of speech. We plan to select noun, adjective and adverb from review text and calculate the frequency of words by using Spacy library.
+* Use Wordcloud python library to display the key words in review text.
+* Do sentiment analysis on reviews text and determine the sentiment of a text. We plan to use nltk python library (in particular the Vader module) to quantify positiveness and negativeness of a review text.
+* Use machine learning method to predict the tendency of rating and review number. We plan to use to sklearn python library to realize it.
+* The ‘related’ feature of data is not used in Milestone 2, we hope to explore and analyse it  in depth to see whether we can introduce a related product.
+* The length of review is also an essential property of review, we plan to find the relationship between rating and it.
+* Write a well-formed data story and report and create a plan for presentation and poster creation.
+      
 # General Milestone
 
 The schedule of our project:
