@@ -92,7 +92,7 @@ The schedule of our project:
 
 30/11/2018 - 10/12/2018: Review analysis and Data visulization
 
-* Analyse review text and show the visualizetion in plots
+* Analyse review text and show the visualization in plots
 
 11/12/2018 - 16/12/2018: Conclusion and Report
 
