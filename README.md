@@ -27,8 +27,8 @@ The primary dataset that we would like to use is the [Amazon Review Dataset](htt
 
 We will mainly concern several category listed below:
 * Category information
-    * Sports and Outdoors
-    * Health and Personal Care
+    * Health & Personal Care
+    * ~~Sports & Outdoors~~（because we found even if we do analysis on both two, we will draw two irrelevant conclusions after we analyse them in the same way.)
 
 ### Dataset Structure/Format
 
@@ -53,9 +53,32 @@ We will mainly concern several category listed below:
     * brand - brand name
     * categories - list of categories the product belongs to
 
-We temporally consider these two datasets, and we are looking for some external dataset that can help us, but these will be discussed later.
+~~We temporally consider these two datasets, and we are looking for some external dataset that can help us, but these will be discussed later.~~
 
-# A list of internal milestones up until project milestone 2
+# Update in milestone2
+* Data pre-processing
+   * Drop the features we are not interested
+   * Select data related to our topic
+   * Transform data into proper format
+* Data general analysis and specific analysis
+   * Review Analysis 
+      * Visualize and analyse average rating distribution
+      * Visualize and analyse average rating and the number of reviews through years
+      * Visualize and analyse percentage of good rating(>=4) and bad rating(<4)
+   * Metadata Analysis
+      * Analyse 'nan' values distribution or 0-value proportion of each feature
+      * Analyse and visualise the distribution of specific features
+   * Merge review data and metadata
+   
+   * Sepecific Analysis
+      *  Visualize and analyse rating trend of categories though years
+      *  Visualize and analyse the trend of reviews' quantity of different categories through years
+
+   * Correlation
+      * Analyse correlation between reviews' quantity and salesRank
+      * Analyse correlation between reviews' quantity and Price
+      
+# General Milestone
 
 The schedule of our project:
 
