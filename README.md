@@ -88,7 +88,7 @@ Access the dataset and fully understand it so that all members can be assigned t
 
 16/11/2018 - 29/11/2018: Data analysis 
 
-Look at the attributes of dataset and find some proper statidtic methods to do a data analysis.
+Look at the attributes of dataset and find some proper methods to do a data analysis like distribution, visualization, statistic analysis.
 
 30/11/2018 - 06/12/2018: Data story and Data visulization
 
