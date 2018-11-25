@@ -74,7 +74,7 @@ We will mainly concern several category listed below:
       *  Visualize and analyse rating trend of categories though years
       *  Visualize and analyse the trend of reviews' quantity of different categories through years
 
-   * Correlation
+   * Correlation Analysis
       * Analyse correlation between reviews' quantity and salesRank
       * Analyse correlation between reviews' quantity and Price
       
