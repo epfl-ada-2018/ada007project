@@ -98,5 +98,8 @@ Creat a interesting and meaningful data story for our analysis and show the visu
 
 17/12/2017 - TBD: Poster & Presentation
 
+# Data Reference
+R. He, J. McAuley. Modeling the visual evolution of fashion trends with one-class collaborative filtering. WWW, 2016<br/>
+J. McAuley, C. Targett, J. Shi, A. van den Hengel. Image-based recommendations on styles and substitutes. SIGIR, 2015
 <!-- # Questions for TAa
 Add here some questions you have for us, in general or project-specific. -->
