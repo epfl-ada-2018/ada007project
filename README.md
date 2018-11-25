@@ -94,7 +94,7 @@ Look at the attributes of dataset and find some proper methods to do a data anal
 
 Analyse review text and show the visualizetion in plots
 
-11/12/2018 - 16/12/2018: Conclusion and Reprot
+11/12/2018 - 16/12/2018: Conclusion and Report
 
 17/12/2017 - TBD: Poster & Presentation
 
