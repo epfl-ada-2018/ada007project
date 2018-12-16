@@ -102,7 +102,7 @@ We will mainly concern several category listed below:
 # Contributions of group members 
 Liang Yueran: Website design, Sentiment Analysis, Metadata Analysis, data story sharing ;   
 Luo Yaxiong: Data Story Formulation, Special Day Analysis, Data Pre-proessing, Coming up with the algorithm;  
-Xia Shengzhao: Seasonal Decomposition and Rrediction, Key words and Bigrams Analysis, Correlation;  
+Xia Shengzhao: Seasonal Decomposition and Prediction, Key words and Bigrams Analysis, Correlation;  
     
 # General Milestone
 
