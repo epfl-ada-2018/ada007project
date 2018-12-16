@@ -3,6 +3,8 @@ Title: **How people view health care products？**
 
 Team members: Liang Yueran, Luo Yaxiong, Xia Shengzhao
 
+Data Story: [How people view health care products?](https://ada007project.github.io)
+
 # Abstract
 
 Improving health condition is an indispensable part of society improvement. In this project, we focus on the Amazon product data to draw a conclusion on how to promote health. Our goal is to analyze the popularity of products related to physical health from different points of views, such as providing a visualization of data to show the changing trend of the amount of reviews,  comparing average rating of the products and so on. We hope to give people an insight of how these products influence people’s life. Are they becoming more and more important to people's life or people are losing their interests of these kinds of products? Morever, good recommendations are essential to promote these products for people interested in them. By combining rating, sentiment analysis of reviews and other useful features of data, we also want to make a reasonable recommendation.
