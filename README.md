@@ -4,6 +4,7 @@ Title: **How people view health care products？**
 Team members: Liang Yueran, Luo Yaxiong, Xia Shengzhao
 
 Data Story: [How people view health care products?](https://ada007project.github.io)
+Repository of Data Story: [link](https://github.com/ADA007project/ADA007project.github.io)
 
 # Abstract
 
