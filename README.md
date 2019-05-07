@@ -82,22 +82,12 @@ We will mainly concern several category listed below:
       * Analyse correlation between reviews' quantity and salesRank
       * Analyse correlation between reviews' quantity and Price
       
-# Plan to do in milestone 3
-* Give the words in review text part of speech(POS) tags. We plan to select Noun, Adjective, Adverb from review text and calculate the frequency of words by using Spacy library.
-* Use Wordcloud library to display the key words in review text.
-* Do sentiment analysis on reviews text and get the sentiment of a text. We plan to use nltk library (etc. Vader module) to quantify positiveness and negativeness of review text.
-* Use machine learning method to predict the tendency of rating and review quantity. We plan to use to sklearn library or other relevant libraries to realize it.
-* The ‘related’ feature of data is not used in Milestone 2, we may consider to explore and analyse further to see whether we could recommend a related product.
-* The length of review is also our interested aspect of review, we plan to find the relationship between rating and it.
-* Create a well-formed data story or report and create a plan for presentation and poster creation.
 
 # Update in milestone 3
 * Give the words in review text part of speech(POS) tags. We display Noun, Verb,  Adjective and Adverb from review text through years .
 * we use Wordcloud library to display the key words in review text, such as product, work, far and good for Noun, Verb,  Adjective and Adverb 
 * Do sentiment analysis on reviews text and get the sentiment of a text. we normalize the review context by setting a range of the sentiment compound score from [-1,1] to [1,5]
 * Use machine learning method to predict the tendency of rating and review quantity. We use sklearn library or other relevant libraries to realize it.
-* ~~The ‘related’ feature of data is not used in Milestone 2, we may consider to explore and analyse further to see whether we could recommend a related product.~~
-* ~~The length of review is also our interested aspect of review, we plan to find the relationship between rating and it.~~
 * Create a well-formed data story or report and create a plan for presentation and poster creation.
 
 
